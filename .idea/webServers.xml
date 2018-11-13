@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ee1ac498-0b19-4d65-8b8f-c4502960b93a" name="gateway-vwang" url="http://127.0.0.1">
+        <fileTransfer host="127.0.0.1" port="12346" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="12346" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="52dc208c-3321-4c59-8515-7536a98e60af" name="dcuuser" url="http://114.115.145.248">
+        <fileTransfer host="114.115.145.248" port="2124" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2124" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

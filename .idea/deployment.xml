@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="local_vwang">
+    <serverData>
+      <paths name="dcuuser">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/../THUMT-master" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="gateway-vwang">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/vwang/xie/workspace/THUMT-master" local="$PROJECT_DIR$/../THUMT-master" web="/" />
+            <mapping deploy="/home/vwang/xie/workspace/THUMT-master-src-con" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="guodong@127.0.0.1:12347">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/../THUMT-master" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="local_noah">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/dcuuser/xie/workspace/THUMT-master-src-con" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="local_vwang">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/vwang/xie/workspace/THUMT-master" local="$PROJECT_DIR$/../THUMT-master" web="/" />
+            <mapping deploy="/home/vwang/xie/workspace/THUMT-master-discourse" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="noahnew">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/dcuuser/xie/workspace/THUMT-master-src-con" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

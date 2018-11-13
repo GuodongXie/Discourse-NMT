@@ -1,0 +1,971 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="17bd6b01-96b1-40c1-9511-f3c15690ebe7" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/THUMT_master_discourse$trainer_cache_tiny__1_.coverage" NAME="trainer_cache_tiny (1) Coverage Results" MODIFIED="1541149353804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/THUMT_master_src_con$src_cons_translator.coverage" NAME="src_cons_translator Coverage Results" MODIFIED="1534513681465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bin" />
+    <SUITE FILE_PATH="coverage/THUMT_master_src_con$rerank_feature_extract.coverage" NAME="rerank-feature-extract Coverage Results" MODIFIED="1531775442148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bin" />
+    <SUITE FILE_PATH="coverage/THUMT_master_discourse$translator_cache.coverage" NAME="translator_cache Coverage Results" MODIFIED="1542028221522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/THUMT_master_discourse$trainer_cache_.coverage" NAME="trainer_cache_ Coverage Results" MODIFIED="1541064288969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/THUMT_master_rerank$reranking_trainer.coverage" NAME="reranking-trainer Coverage Results" MODIFIED="1529338902263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thumt/bin" />
+    <SUITE FILE_PATH="coverage/THUMT_master_discourse$trainer_cache_tiny_tiny.coverage" NAME="trainer_cache_tiny_tiny Coverage Results" MODIFIED="1542035421815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/THUMT_master_discourse$dataread_test.coverage" NAME="dataread_test Coverage Results" MODIFIED="1542035486858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/THUMT_master_discourse$dataread_test_all_tgt.coverage" NAME="dataread_test-all-tgt Coverage Results" MODIFIED="1542029019139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/THUMT_master_discourse$trainer_cache_tiny.coverage" NAME="trainer_cache_tiny Coverage Results" MODIFIED="1541763401426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/THUMT_master_src_con$src_cons_translator_ende.coverage" NAME="src_cons_translator-ende Coverage Results" MODIFIED="1532498874563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bin" />
+    <SUITE FILE_PATH="coverage/THUMT_master_discourse$transformer.coverage" NAME="transformer Coverage Results" MODIFIED="1540844977514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../THUMT-master/thumt/models" />
+    <SUITE FILE_PATH="coverage/THUMT_master_rerank$rerank_feature_extract.coverage" NAME="rerank-feature-extract Coverage Results" MODIFIED="1528753695187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thumt/bin" />
+    <SUITE FILE_PATH="coverage/THUMT_master_src_con$src_cons_translator_local_vwang_zhen.coverage" NAME="src_cons_translator-local-vwang-zhen Coverage Results" MODIFIED="1534676010677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bin" />
+    <SUITE FILE_PATH="coverage/THUMT_master_src_con$src_cons_translator_local_vwang_ende.coverage" NAME="src_cons_translator-local-vwang-ende Coverage Results" MODIFIED="1534513744758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bin" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="THUMT-master-rerank" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="trainer_cache.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trainer_cache.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="924">
+              <caret line="411" column="17" lean-forward="true" selection-start-line="411" selection-start-column="17" selection-end-line="411" selection-end-column="17" />
+              <folding>
+                <element signature="e#73#111#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="inference.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utils/inference.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4972">
+              <caret line="226" selection-start-line="226" selection-end-line="226" />
+              <folding>
+                <element signature="e#51#89#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cache.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../THUMT-master/thumt/data/cache.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="trainer.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../THUMT-master/thumt/bin/trainer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7326">
+              <caret line="351" column="38" selection-start-line="351" selection-end-line="352" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="translator_cache.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/translator_cache.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="320" column="20" selection-start-line="320" selection-start-column="20" selection-end-line="320" selection-end-column="20" />
+              <folding>
+                <element signature="e#73#111#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="parallel.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../THUMT-master/thumt/utils/parallel.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1738">
+              <caret line="85" selection-start-line="85" selection-end-line="85" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dataset_cache.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dataset_cache.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-451">
+              <caret line="241" column="9" lean-forward="true" selection-start-line="241" selection-start-column="9" selection-end-line="241" selection-end-column="9" />
+              <folding>
+                <element signature="e#51#89#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dataset.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../THUMT-master/thumt/data/dataset.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6380">
+              <caret line="298" column="9" selection-start-line="298" selection-start-column="9" selection-end-line="298" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="transformer_cache.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/transformer_cache.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="292">
+              <caret line="282" column="38" lean-forward="true" selection-start-line="282" selection-start-column="38" selection-end-line="282" selection-end-column="38" />
+              <folding>
+                <element signature="e#51#89#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data_read_test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data_read_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="309" column="4" selection-start-line="309" selection-start-column="4" selection-end-line="309" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>x V</find>
+      <find>where</find>
+      <find>inf</find>
+      <find>vocabulary</find>
+      <find>source_embedding</find>
+      <find>variable_scope</find>
+      <find>N</find>
+      <find>split</find>
+      <find>context_list</find>
+      <find>tf.Print</find>
+      <find>summar</find>
+      <find>reuse=tf.AUTO_REUSE</find>
+      <find>create_inference_graph</find>
+      <find>&quot;softmax</find>
+      <find>tf.strings</find>
+      <find>decoding_graph</find>
+      <find>softmax</find>
+      <find>softmax_cross_entropy_with_logits</find>
+      <find>with</find>
+      <find>variable_sc</find>
+      <find>target_embedding</find>
+      <find>AUTO_REUSE</find>
+      <find>softma</find>
+      <find>init_op</find>
+      <find>tf.logging.info</find>
+      <find>glob</find>
+      <find>sess</find>
+      <find>ctx_</find>
+      <find>softmax_embe</find>
+      <find>context_encoder</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>features</replace>
+      <replace>feat</replace>
+      <replace>dicoder_dict</replace>
+      <replace>newfeatures</replace>
+      <replace>N*2(history)</replace>
+      <replace>context</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/thumt/bin/train/reranker.py" />
+        <option value="$PROJECT_DIR$/thumt/bin/reranker.py" />
+        <option value="$PROJECT_DIR$/thumt/models/transformer.py" />
+        <option value="$PROJECT_DIR$/thumt/data/dataset.py" />
+        <option value="$PROJECT_DIR$/thumt/bin/rerank-feature-extract.py" />
+        <option value="$PROJECT_DIR$/thumt/bin/rerank_dataset.py" />
+        <option value="$PROJECT_DIR$/thumt/bin/reranking-trainer.py" />
+        <option value="$PROJECT_DIR$/bin/rerank-feature-extract.py" />
+        <option value="$PROJECT_DIR$/bin/src_cons_transformer.py" />
+        <option value="$PROJECT_DIR$/bin/src_cons_dataset.py" />
+        <option value="$PROJECT_DIR$/bin/src_cons_translator.py" />
+        <option value="$PROJECT_DIR$/bin/src_cons_inference.py" />
+        <option value="$PROJECT_DIR$/bin/transformer_cache.py" />
+        <option value="$PROJECT_DIR$/bin/trainer_cache_.py" />
+        <option value="$PROJECT_DIR$/trainer_cache_.py" />
+        <option value="$PROJECT_DIR$/utils/hooks.py" />
+        <option value="$PROJECT_DIR$/layers/attention.py" />
+        <option value="$PROJECT_DIR$/layers/__init__.py" />
+        <option value="$PROJECT_DIR$/../THUMT-master/thumt/layers/nn.py" />
+        <option value="$PROJECT_DIR$/layers/nn.py" />
+        <option value="$PROJECT_DIR$/utils/inference.py" />
+        <option value="$PROJECT_DIR$/translator_cache.py" />
+        <option value="$PROJECT_DIR$/trainer_cache.py" />
+        <option value="$PROJECT_DIR$/dataset_cache.py" />
+        <option value="$PROJECT_DIR$/data_read_test.py" />
+        <option value="$PROJECT_DIR$/transformer_cache.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="805" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="THUMT-master-discourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="THUMT-master-rerank" type="47feb1d3:ProjectViewModuleNode" />
+            </path>
+            <path>
+              <item name="THUMT-master-discourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="THUMT-master-rerank" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="THUMT-master-discourse" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/bak" />
+      <recent name="$PROJECT_DIR$/bin" />
+      <recent name="$PROJECT_DIR$/hgbs部分改为while_loop" />
+      <recent name="$PROJECT_DIR$/bin/7-28去掉eos weight" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/bin/bak" />
+      <recent name="$PROJECT_DIR$/bin" />
+      <recent name="$PROJECT_DIR$/thumt/bin/bak" />
+      <recent name="$PROJECT_DIR$/thumt/bin/train" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.dataread_test">
+    <configuration name="dataread_test-all-tgt" type="PythonConfigurationType" factoryName="Python">
+      <module name="THUMT-master-rerank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/tenforflow/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_read_test.py" />
+      <option name="PARAMETERS" value="--input $USER_HOME$/Documents/Shared/context-corpus/tiny/train_trg.3history $USER_HOME$/Documents/Shared/context-corpus/tiny/train_trg --output $USER_HOME$/Documents/Shared/111/test_train --vocabulary $USER_HOME$/Documents/Shared/context-corpus/tiny/tiny_vocab.en.txt $USER_HOME$/Documents/Shared/context-corpus/tiny/tiny_vocab.en.txt --model transformer --validation $USER_HOME$/Documents/Shared/context-corpus/testsets/valid_src.3history --references $USER_HOME$/Documents/Shared/context-corpus/testsets/valid_trg.tk.lc --parameters=batch_size=512,device_list=[0],train_steps=200000,hidden_size=16,decode_batch_size=32," />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="dataread_test" type="PythonConfigurationType" factoryName="Python">
+      <module name="THUMT-master-rerank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/tenforflow/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_read_test.py" />
+      <option name="PARAMETERS" value="--input $USER_HOME$/Documents/Shared/context-corpus/tiny/train_src.3history1 $USER_HOME$/Documents/Shared/context-corpus/tiny/train_trg --output $USER_HOME$/Documents/Shared/111/test_train --vocabulary $USER_HOME$/Documents/Shared/context-corpus/tiny/tiny_vocab.zh.txt $USER_HOME$/Documents/Shared/context-corpus/tiny/tiny_vocab.en.txt --model transformer --validation $USER_HOME$/Documents/Shared/context-corpus/testsets/valid_src.3history --references $USER_HOME$/Documents/Shared/context-corpus/testsets/valid_trg.tk.lc --parameters=batch_size=512,device_list=[0],train_steps=200000,hidden_size=16,decode_batch_size=32," />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="rerank-feature-extract" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="THUMT-master-rerank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bin" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <PathMappingSettings>
+        <option name="pathMappings">
+          <list>
+            <mapping local-root="$PROJECT_DIR$" remote-root="/home/dcuuser/xie/workspace/THUMT-master-src-con" />
+            <mapping local-root="$PROJECT_DIR$/.." remote-root="/home/dcuuser/xie/workspace" />
+          </list>
+        </option>
+      </PathMappingSettings>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bin/rerank-feature-extract.py" />
+      <option name="PARAMETERS" value="--models transformer --input /home/dcuuser/xie/rerank/valid1.bpe.zh /home/dcuuser/xie/rerank/valid.bpe.en --output /home/dcuuser/xie/rerank/decode-output/valid.zh.trans --vocabulary /home/dcuuser/xie/ldc125bpe2/baseline-bpe/vocab.bpe.zh.txt /home/dcuuser/xie/ldc125bpe2/baseline-bpe/vocab.bpe.en.txt --checkpoints /home/dcuuser/xie/tmodel --constraints /home/dcuuser/xie/cons_ldc125bpe2/cons_unigram_pos/valid.bpe.zh.constraints.json --parameters=device_list=[0,1],beam_size=2,decode_batch_size=3" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="src_cons_translator-ende" type="PythonConfigurationType" factoryName="Python">
+      <module name="THUMT-master-rerank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://dcuuser@114.115.145.248:2124/home/dcuuser/vincent/tool/anaconda2/envs/tensorflow/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bin" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <PathMappingSettings>
+        <option name="pathMappings">
+          <list>
+            <mapping local-root="$PROJECT_DIR$" remote-root="/home/dcuuser/xie/workspace/THUMT-master-src-con" />
+            <mapping local-root="$PROJECT_DIR$/.." remote-root="/home/dcuuser/xie/workspace" />
+          </list>
+        </option>
+      </PathMappingSettings>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src_cons_translator.py" />
+      <option name="PARAMETERS" value="--models transformer --input /home/dcuuser/xie/cons_ende/autodesk/test1.bpe.en --output /home/dcuuser/xie/cons_ende/output/test1.bpe.en-5-0.01.hgbs.result --vocabulary /home/dcuuser/xie/cons_ende/autodesk/vocab.en.txt /home/dcuuser/xie/cons_ende/autodesk/vocab.de.txt --checkpoints /home/dcuuser/xie/baseline-ende/train/eval --constraints /home/dcuuser/xie/cons_ende/cons_pos/test1.bpe.en.constraints.pruned.json --weight_threshold 0.01 --encdec_att_layer 5 --heads 0 1 2 3 4 5 6 7 --head_model average --parameters=device_list=[0],beam_size=10,decode_batch_size=1" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="src_cons_translator-local-vwang-ende" type="PythonConfigurationType" factoryName="Python">
+      <module name="THUMT-master-rerank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="LD_LIBRARY_PATH" value="/usr/local/cuda-9.0/lib64:/home/vwang/Research/tool/anaconda2/lib:/usr/local/cuda-9.0/lib64:/opt/OpenBLAS/lib:/usr/local/cuda-7.5/lib64:" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://vwang@127.0.0.1:12346/home/vwang/Research/tool/anaconda2/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bin" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <PathMappingSettings>
+        <option name="pathMappings">
+          <list>
+            <mapping local-root="$PROJECT_DIR$" remote-root="/home/vwang/xie/workspace/THUMT-master-src-con" />
+            <mapping local-root="$PROJECT_DIR$/.." remote-root="/home/vwang/xie/workspace" />
+          </list>
+        </option>
+      </PathMappingSettings>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src_cons_translator.py" />
+      <option name="PARAMETERS" value="--models transformer --input /home/vwang/xie/cons_ende/autodesk/test.debug.en --output /home/vwang/xie/cons_ende/output/test.debug.en.result --vocabulary /home/vwang/xie/cons_ende/autodesk/vocab.en.txt /home/vwang/xie/cons_ende/autodesk/vocab.de.txt --checkpoints /home/vwang/Research/workspace/Huawei/baseline-ende/train/eval --constraints /home/vwang/xie/cons_ende/cons_pos/test.debug.en.constraints.pruned.json --weight_threshold 0.1 --encdec_att_layer 5 --heads 0 1 2 3 4 5 6 7 --head_model average --parameters=device_list=[1],beam_size=10,decode_batch_size=1" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="src_cons_translator-local-vwang-zhen" type="PythonConfigurationType" factoryName="Python">
+      <module name="THUMT-master-rerank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="LD_LIBRARY_PATH" value="/usr/local/cuda-9.0/lib64:/home/vwang/Research/tool/anaconda2/lib:/usr/local/cuda-9.0/lib64:/opt/OpenBLAS/lib:/usr/local/cuda-7.5/lib64:" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://vwang@127.0.0.1:12346/home/vwang/Research/tool/anaconda2/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bin" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <PathMappingSettings>
+        <option name="pathMappings">
+          <list>
+            <mapping local-root="$PROJECT_DIR$" remote-root="/home/vwang/xie/workspace/THUMT-master-src-con" />
+            <mapping local-root="$PROJECT_DIR$/.." remote-root="/home/vwang/xie/workspace" />
+          </list>
+        </option>
+      </PathMappingSettings>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src_cons_translator.py" />
+      <option name="PARAMETERS" value="--models transformer --input /home/vwang/xie/rerank/valid1.bpe.zh --output /home/vwang/xie/rerank/output/valid.zh.encode.result --vocabulary /home/vwang/xie/ldc125bpe2/baseline-bpe/vocab.bpe.zh.txt /home/vwang/xie/ldc125bpe2/baseline-bpe/vocab.bpe.en.txt --checkpoints /home/vwang/xie/tmodel --constraints /home/vwang/xie/cons_ldc125bpe2/cons_unigram_pos/valid1.bpe.zh.constraints.json --weight_threshold 0.01 --encdec_att_layer 5 --heads 0 1 2 3 4 5 6 7 --head_model average --parameters=device_list=[1],beam_size=10,decode_batch_size=1" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="trainer_cache" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="THUMT-master-rerank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/tenforflow/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/trainer_cache_.py" />
+      <option name="PARAMETERS" value="--input $USER_HOME$/ldc125bpe2/baseline-bpe/valid.bpe.zh $USER_HOME$/ldc125bpe2/baseline-bpe/valid.bpe.en --output $USER_HOME$/Documents/Shared/111/test_train --vocabulary $USER_HOME$/ldc125bpe2/baseline-bpe/tiny_vocab.bpe.zh.txt $USER_HOME$/ldc125bpe2/baseline-bpe/tiny_vocab.bpe.en.txt --model transformer --validation $USER_HOME$/ldc125bpe2/baseline-bpe/valid.bpe.zh --references $USER_HOME$/ldc125bpe2/baseline-bpe/valid.bpe.en --parameters=batch_size=512,device_list=[0],train_steps=200000,hidden_size=16" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="trainer_cache_tiny" type="PythonConfigurationType" factoryName="Python">
+      <module name="THUMT-master-rerank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/tenforflow/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/trainer_cache.py" />
+      <option name="PARAMETERS" value="--input $USER_HOME$/Documents/Shared/context-corpus/tiny/train_src.3history1 $USER_HOME$/Documents/Shared/context-corpus/tiny/train_trg --output $USER_HOME$/Documents/Shared/111/test_train --vocabulary $USER_HOME$/Documents/Shared/context-corpus/tiny/tiny_vocab.zh.txt $USER_HOME$/Documents/Shared/context-corpus/tiny/tiny_vocab.en.txt --model transformer --validation $USER_HOME$/Documents/Shared/context-corpus/testsets/valid_src.3history --references $USER_HOME$/Documents/Shared/context-corpus/testsets/valid_trg.tk.lc --parameters=batch_size=512,device_list=[0],train_steps=200000,hidden_size=16" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="trainer_cache_tiny_tiny" type="PythonConfigurationType" factoryName="Python">
+      <module name="THUMT-master-rerank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/tenforflow/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/trainer_cache.py" />
+      <option name="PARAMETERS" value="--input $USER_HOME$/Documents/Shared/context-corpus/tiny/tinytest_src.txt $USER_HOME$/Documents/Shared/context-corpus/tiny/tinytest_tgt.txt --output $USER_HOME$/Documents/Shared/111/test_train_tiny --vocabulary $USER_HOME$/Documents/Shared/context-corpus/tiny/tiny_vocab.zh.txt $USER_HOME$/Documents/Shared/context-corpus/tiny/tiny_vocab.en.txt --model transformer --validation $USER_HOME$/Documents/Shared/context-corpus/tiny/tinytest_src.txt --references $USER_HOME$/Documents/Shared/context-corpus/tiny/tinytest_tgt.txt --parameters=batch_size=512,device_list=[0],train_steps=20000,hidden_size=16" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="transformer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="THUMT-master-rerank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../THUMT-master/thumt/models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../THUMT-master/thumt/models/transformer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="translator_cache" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="THUMT-master-rerank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/tenforflow/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/translator_cache.py" />
+      <option name="PARAMETERS" value="--models transformer --input $USER_HOME$/Documents/Shared/context-corpus/processed/testsets/tinytest_src.txt --output $USER_HOME$/Documents/Shared/context-corpus/valid.trans --vocabulary $USER_HOME$/Documents/Shared/context-corpus/tiny/tiny_vocab.zh.txt $USER_HOME$/Documents/Shared/context-corpus/tiny/tiny_vocab.en.txt --checkpoints $USER_HOME$/Documents/Shared/111/test_train --parameters=device_list=[0,1],beam_size=1,decode_batch_size=1" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.src_cons_translator-ende" />
+      <item itemvalue="Python.src_cons_translator-local-vwang-ende" />
+      <item itemvalue="Python.src_cons_translator-local-vwang-zhen" />
+      <item itemvalue="Python.trainer_cache_tiny" />
+      <item itemvalue="Python.trainer_cache_tiny_tiny" />
+      <item itemvalue="Python.dataread_test" />
+      <item itemvalue="Python.dataread_test-all-tgt" />
+      <item itemvalue="Python.rerank-feature-extract" />
+      <item itemvalue="Python.transformer" />
+      <item itemvalue="Python.trainer_cache" />
+      <item itemvalue="Python.translator_cache" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.translator_cache" />
+        <item itemvalue="Python.trainer_cache" />
+        <item itemvalue="Python.transformer" />
+        <item itemvalue="Python.rerank-feature-extract" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17bd6b01-96b1-40c1-9511-f3c15690ebe7" name="Default" comment="" />
+      <created>1527975355319</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527975355319</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="805" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32907802" />
+      <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.33619457" side_tool="true" weight="0.28732395" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" order="8" sideWeight="0.5979971" weight="0.42514125" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6638054" weight="0.34039548" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="right" id="Remote Host" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49894738" visible="true" weight="0.15808298" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.3297568" />
+      <window_info id="Structure" order="1" sideWeight="0.5010526" side_tool="true" weight="0.25178826" />
+      <window_info anchor="bottom" id="Debug" order="5" sideWeight="0.4892704" visible="true" weight="0.32062146" />
+      <window_info id="Favorites" order="2" side_tool="true" weight="0.3297568" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.44225353" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.31779662" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Remote Host" order="3" />
+      <window_info anchor="right" id="SciView" order="5" weight="0.3297568" />
+      <window_info id="Structure" order="1" sideWeight="0.5010526" side_tool="true" weight="0.25178826" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" weight="0.3297568" />
+      <window_info anchor="bottom" id="TODO" order="8" weight="0.32907802" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.6638054" visible="true" weight="0.27824858" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.44225353" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49894738" visible="true" weight="0.2067239" />
+      <window_info anchor="bottom" id="Debug" order="6" sideWeight="0.4892704" weight="0.34039548" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.33619457" side_tool="true" weight="0.28732395" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="0" weight="0.31779662" />
+      <window_info anchor="bottom" id="File Transfer" order="9" sideWeight="0.5979971" weight="0.18926553" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/thumt/utils/optimize.py</url>
+          <line>113</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data_read_test.py</url>
+          <line>331</line>
+          <option name="timeStamp" value="220" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="221" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/bin/bak/能输出6层的weight信息，因为内存消耗太大，无法跑/src_cons_inference.py" />
+    <entry file="file://$PROJECT_DIR$/bin/bak/输出单层weigth,部分句子仍然内存不够/src_cons_inference.py" />
+    <entry file="file://$PROJECT_DIR$/bin/bak/7-28去掉eos weight/src_cons_dataset.py" />
+    <entry file="file://$PROJECT_DIR$/bin/bak/8-2-所有层所有head平均/src_cons_inference.py" />
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.1/python_stubs/1576119945/_json.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-52">
+          <caret line="74" column="6" selection-start-line="74" selection-start-column="6" selection-end-line="74" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/1576119945/-1387265646/json/scanner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="66" column="28" selection-start-line="66" selection-start-column="28" selection-end-line="66" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.1/remote_sources/1426293547/1698107571/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="685" selection-start-line="685" selection-end-line="685" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.1/remote_sources/1426293547/1698107571/json/decoder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="363" selection-start-line="363" selection-end-line="363" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.1/remote_sources/1426293547/1698107571/json/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="338" selection-start-line="338" selection-end-line="338" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.1/remote_sources/1426293547/1698107571/contextlib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.1/remote_sources/1426293547/-572876713/tensorflow/python/ops/control_flow_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="2933" selection-start-line="2933" selection-end-line="2933" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/bak/hgbs部分改为while_loop/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/bin/bak/hgbs部分改为while_loop/src_cons_inference.py" />
+    <entry file="file://$PROJECT_DIR$/bin/src_cons_inference.py" />
+    <entry file="file://$PROJECT_DIR$/src_cons_translator.py" />
+    <entry file="file://$PROJECT_DIR$/bin/src_cons_transformer.py" />
+    <entry file="file://$PROJECT_DIR$/../THUMT-master/thumt/bin/trainer_test.py" />
+    <entry file="file://$PROJECT_DIR$/bin/src_cons_dataset.py" />
+    <entry file="file://$PROJECT_DIR$/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bak/transformer_cache-dequeue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/tenforflow/lib/python2.7/site-packages/tensorflow/python/data/ops/dataset_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="1391" selection-start-line="1391" selection-end-line="1391" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/1576119945/363927286/setuptools/msvc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="429" column="8" selection-start-line="429" selection-start-column="8" selection-end-line="429" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../THUMT-master/thumt/models/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../THUMT-master/thumt/utils/hooks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2327">
+          <caret line="132" column="13" selection-start-line="132" selection-start-column="4" selection-end-line="132" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../THUMT-master/thumt/utils/inference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1206">
+          <caret line="225" column="40" lean-forward="true" selection-start-line="225" selection-start-column="40" selection-end-line="225" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/hooks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-247">
+          <caret line="161" column="77" selection-start-line="161" selection-start-column="77" selection-end-line="161" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/bleu.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../THUMT-master/thumt/utils/optimize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-654">
+          <caret line="100" column="4" selection-start-line="100" selection-start-column="4" selection-end-line="100" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../THUMT-master/thumt/utils/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="50" column="4" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/tenforflow/lib/python2.7/site-packages/tensorflow/python/ops/math_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="2117" selection-start-line="2117" selection-end-line="2117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trainer_cache_.py" />
+    <entry file="file://$PROJECT_DIR$/../THUMT-master/thumt/layers/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layers/attention.py" />
+    <entry file="file://$PROJECT_DIR$/layers/rnn_cell.py" />
+    <entry file="file://$PROJECT_DIR$/layers/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/layers/nn.py" />
+    <entry file="file://$PROJECT_DIR$/../THUMT-master/thumt/layers/attention.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-759">
+          <caret line="221" selection-start-line="221" selection-end-line="221" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../THUMT-master/thumt/data/cache.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/tenforflow/lib/python2.7/site-packages/tensorflow/python/client/session.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="880" column="12" lean-forward="true" selection-start-line="880" selection-start-column="12" selection-end-line="880" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../THUMT-master/thumt/bin/trainer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7326">
+          <caret line="351" column="38" selection-start-line="351" selection-end-line="352" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../THUMT-master/thumt/models/transformer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../THUMT-master/thumt/layers/nn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3190">
+          <caret line="149" column="58" selection-start-line="149" selection-start-column="58" selection-end-line="149" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../THUMT-master/thumt/bin/translator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="69" column="18" selection-start-line="69" selection-start-column="18" selection-end-line="69" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../THUMT-master/thumt/data/dataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6380">
+          <caret line="298" column="9" selection-start-line="298" selection-start-column="9" selection-end-line="298" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/inference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4972">
+          <caret line="226" selection-start-line="226" selection-end-line="226" />
+          <folding>
+            <element signature="e#51#89#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../THUMT-master/thumt/utils/parallel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1738">
+          <caret line="85" selection-start-line="85" selection-end-line="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset_cache.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-451">
+          <caret line="241" column="9" lean-forward="true" selection-start-line="241" selection-start-column="9" selection-end-line="241" selection-end-column="9" />
+          <folding>
+            <element signature="e#51#89#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/translator_cache.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="320" column="20" selection-start-line="320" selection-start-column="20" selection-end-line="320" selection-end-column="20" />
+          <folding>
+            <element signature="e#73#111#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_read_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="309" column="4" selection-start-line="309" selection-start-column="4" selection-end-line="309" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trainer_cache.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="411" column="17" lean-forward="true" selection-start-line="411" selection-start-column="17" selection-end-line="411" selection-end-column="17" />
+          <folding>
+            <element signature="e#73#111#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/transformer_cache.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="282" column="38" lean-forward="true" selection-start-line="282" selection-start-column="38" selection-end-line="282" selection-end-column="38" />
+          <folding>
+            <element signature="e#51#89#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
